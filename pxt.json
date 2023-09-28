@@ -1,5 +1,6 @@
 {
     "name": "Intro to MakeCode Arcade - Copy",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
